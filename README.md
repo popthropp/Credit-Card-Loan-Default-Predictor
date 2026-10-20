@@ -38,28 +38,18 @@ This was a two-person project and I contributed the predictive models created (S
 
 **Reproduction**
 
-Data access
-
-The classical modeling notebook downloads the dataset using the library kagglehub:
-
-uciml/default-of-credit-card-clients-dataset
+The classical modeling notebook downloads the dataset using the library kagglehub (See example in DS340_EDA.ipynb): uciml/default-of-credit-card-clients-dataset
 
 Project files
 
-DS340_EDA.ipynb
-Exploratory data analysis
+DS340_EDA.ipynb --> Exploratory data analysis
 
-DS340_models.ipynb
-Classical model comparisons without SMOTE
+DS340_models.ipynb --> Classical model comparisons without SMOTE
 
-DS340_models_SMOTE.ipynb
-Classical model comparisons with SMOTE
+DS340_models_SMOTE.ipynb --> Classical model comparisons with SMOTE
 
-DS340_nn.ipynb
-Neural network experiment
+DS340_nn.ipynb --> Neural network experiment
 
-DS 340 Final Paper.pdf
-Full project report
+DS 340 Final Paper.pdf --> Full project report
 
-DS 340 Final Presentation.pptx.pdf
-Presentation
+DS 340 Final Presentation.pptx.pdf --> Presentation
