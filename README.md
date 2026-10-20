@@ -4,7 +4,7 @@ Project in course DS340 (Machine Learning Course) that focuses on machine learni
 
 This project was created with one other partner from the course.
 
-**Problem**
+## Problem
 
 Can a customer's financial profile as well as repayment information accurately predict whether or not they default on their next credit card payment?
 
@@ -12,7 +12,7 @@ This project explores a problem relevant to credit-risk analysts: identifying po
 
 Developed by Melaku Mohammed and Christian Abrams for DS340.
 
-**Data**
+## Data
 
 Source: Default of Credit Card Clients dataset on Kaggle
 
@@ -28,19 +28,19 @@ Source: Default of Credit Card Clients dataset on Kaggle
 
 The historical data includes repayment information from April–September 2005. Findings may not generalize to current customers or other markets. Class imbalance also makes accuracy alone an insufficient measure of performance.
 
-**Approach, Results, and Interpretation**
+## Approach, Results, and Interpretation
 
 All explored in detail through the DS 340 Final Paper.pdf
 
-**My Contribution**
+## My Contribution
 
 This was a two-person project and I contributed the predictive models created (SMOTE + non-SMOTE), the neural network, and a minor contribution to the initial EDA.
 
-**Reproduction**
+## Reproduction
 
 The classical modeling notebook downloads the dataset using the library kagglehub (See example in DS340_EDA.ipynb): uciml/default-of-credit-card-clients-dataset
 
-Project files
+**Project files**
 
 DS340_EDA.ipynb --> Exploratory data analysis
 
